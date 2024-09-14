@@ -7,3 +7,5 @@ Mobile Baking Recipe App UI Design
 # Figma
 
 ![1 Image](https://github.com/Harveyq999/Mobile-Baking-Recipe-App-UI/blob/main/Loading%20Screen.png)
+![2 Image](https://github.com/Harveyq999/Mobile-Baking-Recipe-App-UI/blob/main/Loading%20Screen.png)
+![3 Image](https://github.com/Harveyq999/Mobile-Baking-Recipe-App-UI/blob/main/Loading%20Screen.png)
